@@ -20,9 +20,6 @@ The cryptocurrency market has seen unprecedented growth and innovation over the 
 
 Tokens play a pivotal role within the crypto market. They act as the fuel that powers blockchain networks, the stake that secures them, the key that unlocks access to certain applications or services, and the value that can be transferred peer-to-peer without intermediaries. They can represent anything from a unit of currency, to a stake in a company, to a claim on an underlying asset. In this case, **Meme Coin** is an ERC20 token, one of the many standards for tokens on the Ethereum blockchain, that will be issued on Uniswap V2.
 
-Absolutely, here's Section 3 in GitHub's Markdown format:
-
-```markdown
 # 3. Meme Coin: An ERC20 Token
 
 ## 3.1. Explanation of ERC20 Tokens
@@ -40,8 +37,6 @@ ERC20 is a standard used for creating and issuing smart contract-based tokens on
 ## 3.3. Total Supply and Distribution
 
 The total supply of **Meme Coin** is capped at a predetermined amount. The distribution will occur through a one-time listing on Uniswap V2, where all available Meme Coins will be paired with ETH for public trading.
-```
-This markdown will render as headers and paragraphs, with bold text for emphasis where needed.
 
 # 4. Listing on Uniswap V2
 
@@ -89,7 +84,7 @@ The regulatory environment for cryptocurrencies is evolving and varies by jurisd
 
 ## 6.3. Risks Inherent to a Hands-Off Approach Post-Issuance
 
-The hands-off approach post-issuance presents unique risks. Without a dedicated development team, Meme Coin may be less responsive to changing market conditions or technological advancements. Also, any potential issues or vulnerabilities in the token contract cannot be addressed by the issuers. This could potentially impact the functionality or security of the token. The community will need to be proactive in managing these risks.
+The hands-off approach post-issuance presents unique risks. Without a dedicated development team, Meme Coin may be less responsive to changing market conditions or technological advancements. Also, any potential issues or vulnerabilities in the token contract cannot be addressed by the issuers. This could potentially impact the functionality or security of the token.
 
 # 7. Conclusion
 
